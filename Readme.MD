@@ -5,7 +5,7 @@
 - Compatible with Every Device.
 - Basic Control.
 - Minimal & Pleasing User Interface.
-
+### Game Control
 > Use Arrow Keys or WADS to Control Snake Direction.
 
 #### Follow me on:
