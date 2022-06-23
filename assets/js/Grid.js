@@ -1,5 +1,6 @@
 const GRID_SIZE = 21;
 
+/*========== GETTING RANDOM GRID POSITION ==========*/
 export function randomGridPosition() {
   return {
     x: Math.floor(Math.random() * GRID_SIZE) + 1,
@@ -7,6 +8,7 @@ export function randomGridPosition() {
   };
 }
 
+/*========== END OF GRID ==========*/
 export function outsideGrid(position) {
   return (
     position.x < 1 ||
