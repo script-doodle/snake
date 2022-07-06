@@ -1,5 +1,5 @@
 # Snake Game
-## To Experience Live Demo [Click Here](https://md-mussanna-bin-sharif.github.io/snake/)
+## [Live Demo](https://mahin-codes.github.io/snake/)
 ### Basic Snake Game
 - Crafted Using HTML, CSS & JavaScript.
 - Compatible with Every Device.
